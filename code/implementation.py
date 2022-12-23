@@ -1,6 +1,4 @@
 """
-
-
 Hier eine Klasse `DataSet` implementieren.
 
 Die Klasse muss eine Unterklasse von `dataset.DataSetInterface` sein
